@@ -1,4 +1,4 @@
-Task-1-A.S.Ganesh
+Expenses Tracker 
 
 A simple and efficient Expense Tracker built with Python that helps users manage daily expenses. The application stores expense records in a CSV file and provides features for tracking, searching, and analyzing spending habits.
 
